@@ -1,0 +1,12 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/jihun730/i5front
+[submodule "back"]
+	path = back
+	url = https://github.com/jihun730/i5back
+[submodule "AiServer"]
+	path = AiServer
+	url = https://github.com/jihun730/i5aiServer
+[submodule "IoT"]
+	path = IoT
+	url = https://github.com/jihun730/i5iot
